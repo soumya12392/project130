@@ -1,0 +1,25 @@
+* {
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 15px;
+    color: #000000;
+}
+
+canvas {
+    border: 5px solid #ffffff;
+    border-radius: 20px;
+}
